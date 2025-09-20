@@ -102,10 +102,3 @@ The script will:
 4.  Display the final comparison table.
 5.  Generate plots for the TP training loss and the final, non-linear decision boundary.
 
-## Future Work
-
-This project serves as a successful proof of concept. The next steps are:
--   **Scale to Larger Datasets:** Test the algorithm on more complex image datasets like Fashion-MNIST and CIFAR-10.
--   **Develop Convolutional Layers:** Implement a convolutional `TubularLayer` to handle image data effectively.
--   **Formalize the Theory:** Write a research paper detailing the algorithm, its derivation, and its performance characteristics.
--   **Optimized Implementation:** Port the algorithm to a framework like JAX or C++ for even greater performance gains.
