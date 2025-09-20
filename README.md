@@ -78,7 +78,7 @@ The final experiment was run on the `make_moons` dataset, comparing our evolved 
 
 | Metric                  | Backpropagation (PyTorch) | Tubular Plasticity (FOTP) |
 | ----------------------- | ------------------------- | ------------------------- |
-| **Final Test Accuracy** | 96.00% - 98.00%           | **95.00% - 98.00%  **                |
+| **Final Test Accuracy** | 96.00% - 98.00%           | **93.00% - 98.00%  **                |
 | **Training Time**       | ~3.54 seconds             | **~0.7 seconds**         |
 | **Speedup**             | 1x                        | **~5.0x**                 |
 
